@@ -1,0 +1,4 @@
+telebot
+vk-api
+pandas
+requests
